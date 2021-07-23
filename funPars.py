@@ -40,4 +40,3 @@ def get_data_xls2():
                      })
     return data
 
-print(get_data_xls2())
